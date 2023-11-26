@@ -34,7 +34,7 @@ class Ticket:
         return self._departure_zone
 
     def get_buyer_id(self):
-        return self._buyer_id
+        return self._buyer_iduu
 
     def get_is_used(self):
         return self._is_used
